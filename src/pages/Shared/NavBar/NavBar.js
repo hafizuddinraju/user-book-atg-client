@@ -8,7 +8,7 @@ const NavBar = () => {
         <>
         <Navbar bg="dark" className='me-auto'>
             <div className=" px-3 py-2">
-            <Navbar.Brand href="#home">
+            <Navbar.Brand href="/">
               <img
                 src={logo}
                 className="d-inline-block align-top"
